@@ -1,7 +1,7 @@
 AdFR.EE
 =======
 
-Browser extensions to clean Estonian site of banner overload (+some added treats).
+Browser extensions to clean Estonian sites of the banner overload (+some added treats).
 
 Currently supported sites:
 * Delfi.ee – removes the majority of banners; no pre-video adclip 
