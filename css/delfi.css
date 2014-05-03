@@ -1,0 +1,3 @@
+.pre-ad-trigger, #DelfiHeaderMiddle, .ad_wrap, div[id*="banner"], div[class*="banner"], div[id*="zave"], #section > .aside {
+	display: none!important;
+}

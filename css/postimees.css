@@ -1,0 +1,3 @@
+div[id*="ad_"], div[id*="_ad"], div[class*="_ad"], div[class*="ad_"], div[id*="banner"], div[class*="banner"] {
+	display: none!important;
+}

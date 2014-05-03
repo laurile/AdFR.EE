@@ -1,0 +1,3 @@
+#siteHeaderTopBanner, #siteSideBanners, div[id*="anner"], div[class*="anner"] {
+	display: none!important;
+}
