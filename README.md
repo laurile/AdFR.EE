@@ -19,3 +19,5 @@ Added treats (i.e. snippets that bypass ludicrous content protections):
 
 Currently supported browsers:
 * Chrome
+
+<h2><a href="https://chrome.google.com/webstore/detail/adfree/ljcbjjicindakkogedmfegopcpjdbdjn">Download Chrome Extension</a></h2>
