@@ -1,6 +1,6 @@
 {
     "name": "AdFr.ee",
-    "version": "0.1.2",
+    "version": "0.1.5",
     "manifest_version": 2,
 	"icons": {
 		"16": "icon-16.png",
