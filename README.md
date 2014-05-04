@@ -15,7 +15,6 @@ Added treats (i.e. snippets that bypass ludicrous content protections):
 * lpdigileht.epl.ee – read without a subscription;
 * ajaleht.epl.ee – read without a subscription;
 * ajaleht.ekspress.ee – read without a subscription;
-* ajaleht.maaleht.ee – read without a subscription;
 
 
 Currently supported browsers:
