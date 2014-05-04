@@ -1,6 +1,6 @@
 {
     "name": "AdFr.ee",
-    "version": "0.1",
+    "version": "0.1.2",
     "manifest_version": 2,
 	"icons": {
 		"16": "icon-16.png",
@@ -25,7 +25,7 @@
 			"css": ["css/aripaev.css"]
 		},
 		{
-			"matches": ["*://lpdigileht.epl.ee/digi/*"],
+			"matches": ["*://lpdigileht.epl.ee/digi/*","*://ajaleht.epl.ee/digi/*","*://ajaleht.ekspress.ee/digi/*","*://ajaleht.maaleht.ee/*"],
 			"css": ["css/epl.css"]
 		},
 		{
