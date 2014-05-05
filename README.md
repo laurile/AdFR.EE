@@ -20,5 +20,5 @@ Added treats (i.e. snippets that bypass ludicrous content protections):
 Currently supported browsers:
 * Chrome
 
-<img src="http://imgur.com/F9FV7NT"/>
+<img src="http://imgur.com/F9FV7NT.png"/>
 <h2><a href="https://chrome.google.com/webstore/detail/adfree/ljcbjjicindakkogedmfegopcpjdbdjn">Download Chrome Extension</a></h2>
